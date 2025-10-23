@@ -46,7 +46,12 @@
 
 * **`GeneratePrime` / `GenerateBigOddNumber`**
     * **用途**：用於生成大質數的輔助函數。
+## 檔案結構
+├── MathFunction.h # 宣告所有數學工具函數的標頭檔
 
+├── MathFunction.cpp # 實作所有數學工具函數的程式碼
+
+└── main.cpp # 主程式，演示 HSSS 的「分發」與「重建」流程
  
 ## `main.cpp` 流程解析
 
